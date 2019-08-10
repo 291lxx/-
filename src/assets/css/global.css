@@ -1,0 +1,30 @@
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.el-breadcrumb {
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+
+.el-card {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .15) !important
+}
+
+.el-pagination {
+  margin-top: 15px
+}
+
+.el-main {
+  overflow: scroll-y;
+  height: 100%
+}
+.el-cascader-menu{
+  height:204px;
+}
